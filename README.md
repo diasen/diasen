@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Alexander, I'm a 30 year old Front-end student currently completing my degree at Noroff Oslo.
+My name is **Alexander**, I'm a 30 year old Front-end student currently completing my degree at Noroff Oslo.
 
 ### Front-end development skills
 
