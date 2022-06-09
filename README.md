@@ -20,6 +20,7 @@ My name is **Alexander**, I'm a 30 year old Front-end student currently completi
 
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=diasen&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
 
